@@ -1,4 +1,4 @@
-# tripadvisor_scraper (under construction)
+# tripadvisor_scraper
 
 This is a scraper for tripadvisor.com.  It crawls through a country's attractions and deposits them into an SQLite database.
 
